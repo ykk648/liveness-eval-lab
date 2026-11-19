@@ -1,0 +1,16 @@
+*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/pyproject.toml
+!/liveness_lab/
+!/liveness_lab/*.py
+!/docs/
+!/docs/experiments.md
+!/docs/train-export.md
+!/examples/
+!/examples/ensemble.csv
+!/examples/parity.csv
+!/tests/
+!/tests/test_evaluation.py
+!/tests/test_compact.py
